@@ -7,9 +7,6 @@ const Footer = () => {
 
 
 
-
-
-
     <section class="py-20 2xl:py-40 bg-gray-800">
   <div class="container px-4 mx-auto">
     <div class="flex flex-wrap -mx-4 pb-24 mb-16 border-b border-gray-400">

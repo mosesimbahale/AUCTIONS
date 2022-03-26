@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../components/Footer";
 
 const Auction = () => {
   return (
@@ -43,7 +44,7 @@ const Auction = () => {
 
 
 
-    <div className="container px-2 mx-auto">
+    <div className="container px-2 mx-auto pb-5">
       <div className="flex flex-wrap">
         <div className="flex flex-wrap items-center justify-between -mx-4 align-baseline">
           <div class="md:flex shadow-sm  mx-6 md:mx-auto  max-w-lg md:max-w-7xl h-64   px-3 mt-2">
@@ -224,7 +225,7 @@ const Auction = () => {
 
 
 
-
+<Footer />
 
 
 
