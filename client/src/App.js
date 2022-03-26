@@ -6,14 +6,7 @@ function App() {
   return (
 
 
-
-
-
-
     <Home/>
-
-
-
 
 
   );
