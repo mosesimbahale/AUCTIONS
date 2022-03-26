@@ -2,6 +2,47 @@ import React from "react";
 
 const Auction = () => {
   return (
+
+
+
+
+
+
+
+
+
+
+
+
+    <>
+
+
+
+
+<div className="App">
+        
+
+        <header className="App-header">
+          <h1 className="text-3xl font-bold ">Navigation bar</h1>
+        </header>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <div className="container px-2 mx-auto">
       <div className="flex flex-wrap">
         <div className="flex flex-wrap items-center justify-between -mx-4 align-baseline">
@@ -175,6 +216,30 @@ const Auction = () => {
         </div>
       </div>
     </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</>
+
+
+
+
+
+
+
+
   );
 };
 
