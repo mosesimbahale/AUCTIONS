@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosesimbahale/AUCTIONS.git#main"
+  },
+  "author": "Moses Imbahale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosesimbahale/AUCTIONS/issues"
+  },
+  "homepage": "https://github.com/mosesimbahale/AUCTIONS/tree/main#readme",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
